@@ -14,6 +14,7 @@ https://ojo-pet-founder-test.prudenceyang167.chatgpt.site
 - 结果页内置可互动的迷你产品 Demo
 - 一键生成 1080 × 1440 PNG 分享海报
 - 页面二维码和海报二维码均指向当前测试地址
+- 结果页提供跳转 OJO 官网的 Build CTA，并通过 UTM 标记活动来源
 - 支持跳过照片、重复测试和移动端布局
 - 无后端、无账户、无数据上传；照片只在浏览器本地处理
 
